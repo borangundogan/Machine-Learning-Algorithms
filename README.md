@@ -1,2 +1,2 @@
 # Machine-Learning-Algorithms
-In this file, I created the most sig machine learning algorithms.
+In this file, I created the most significant machine learning algorithms.
